@@ -1,0 +1,9 @@
+
+Refinando um Projeto Conceitual de Banco de Dados – E-COMMERCE
+
+
+*** Ferramenta de Design alternativa - DBDesigner.net
+Adentrou na ferramenta sem necessidade, pois a principio foi usado anteriormente a Ferramenta de Design Draw.io, como não
+optou em realizar a ideia anterior no DBDesigner.net, acredito que só complicou.
+
+*** Modelando o cenário de Ordem de Serviço - apresenta o programa aberto e não mostrou como se faz a CONEXAO DO BD do Mysql Workbench
